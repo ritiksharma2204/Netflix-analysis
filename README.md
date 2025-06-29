@@ -29,6 +29,7 @@ Out of 9,800+ movies, 6,528 (25.5%) have a non-zero popularity score (votes).
 🕷️ Spider-Man: No Way Home is the most popular movie in the dataset.Genres: Action, Adventure, Science Fiction
 
 ❓ Q4: What movie got the lowest popularity? What's its genre?
+
 🎶 The United States, Thread has the lowest popularity.Genres: Music, Drama, War, Sci-Fi, History
 
 ❓ Q5: Which year had the most films produced?
