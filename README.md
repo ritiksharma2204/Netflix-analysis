@@ -1,4 +1,4 @@
-🎬 Netflix Movie Genre Analysis
+🎬 **Netflix Movie Genre Analysis**
 
 This project explores and analyzes a dataset of over 9,800 Netflix movies using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The goal was to uncover patterns in genres, popularity, and production years through data cleaning, preprocessing, and visual exploration.
 
