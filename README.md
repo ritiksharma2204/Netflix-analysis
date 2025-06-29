@@ -12,6 +12,7 @@ NumPy for numerical operations
 Matplotlib and Seaborn for visualizations
 
 📌 Key Questions & Insights
+
 ❓ Q1: What is the most frequent genre in the dataset?
 🎭 Drama is the most common genre.
 
