@@ -3,19 +3,20 @@
 This project explores and analyzes a dataset of over 9,800 Netflix movies using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn. The goal was to uncover patterns in genres, popularity, and production years through data cleaning, preprocessing, and visual exploration.
 
 📊 Tools & Libraries Used
-Python (Jupyter Notebook)
 
-Pandas for data manipulation
+**Python (Jupyter Notebook)**
 
-NumPy for numerical operations
+**Pandas for data manipulation**
 
-Matplotlib and Seaborn for visualizations
+**NumPy for numerical operations**
+
+**Matplotlib and Seaborn for visualizations**
 
 📌 Key Questions & Insights
 
 ❓ Q1: What is the most frequent genre in the dataset?
-🎭 Drama is the most common genre.
 
+🎭 Drama is the most common genre.
 It appears in over 14% of all movies, leading the count among 19 other genres.
 
 ❓ Q2: What genre has the highest number of votes?
